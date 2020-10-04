@@ -1,0 +1,3 @@
+#Campo1-Int# #Campo2-char(30)# #edad-int# #Campo3-date# 
+#1# #Renzo# #paredes# #23# #16/02/1998# 
+#2# #Renzo# #paredes# #23# #16/02/1998# 

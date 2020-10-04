@@ -1,0 +1,6 @@
+
+const nombreTabla
+
+const validarNombreTabla = ()=>{
+
+}
